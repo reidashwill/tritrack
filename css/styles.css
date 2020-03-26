@@ -1,0 +1,27 @@
+body {
+  background-image: url(https://i0.wp.com/media.boingboing.net/wp-content/uploads/2016/11/bcf.png?w=680&ssl=1);
+  background-repeat: repeat;
+}
+
+.box {
+  margin: 35px;
+  padding: 35px;
+  border: 5px dashed black;
+  background-color: blanchedalmond;
+}
+
+#equilateral {
+  display: none;
+}
+
+#scalene {
+  display: none;
+}
+
+#isosceles {
+  display: none;
+}
+
+#not-a-triangle {
+  display: none;
+}
