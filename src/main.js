@@ -1,3 +1,8 @@
+import $ from 'jquery';
+import  'bootstrap';
+import './styles.css';
+
+
 $(document).ready(function() {
   $("form#triangle").submit(function(event) {
     event.preventDefault();
